@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1569996224 source:e:\code blocks\cs-181\maze assignment\maze.cpp
+	"maze.h"
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+
+1569812721 e:\code blocks\cs-181\maze assignment\maze.h
+	<string>
+	<vector>
+
+1569994527 source:e:\code blocks\cs-181\maze assignment\maze_main.cpp
+	<iostream>
+	<fstream>
+	"Maze.h"
+

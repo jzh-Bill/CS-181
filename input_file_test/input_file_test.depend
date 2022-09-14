@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586845397 source:e:\code blocks\cs-181\input_file_test\main.cpp
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1571838678 source:e:\code blocks\cs-181\cs 181 program 3\main.cpp
+	<iostream>
+	<vector>
+	<deque>
+	<array>
+	<algorithm>
+

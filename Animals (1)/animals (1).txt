@@ -1,0 +1,22 @@
+1
+Can it fly in the sky?
+2
+Does it walk or crawl on the land?
+4
+Does it live in the water?
+8
+Is it bacterial or microorganism?
+9
+Is it a fish?
+5
+Does it purr?
+10
+Does it bark?
+20
+Is it a wolf?
+21
+Is it a dog?
+11
+Is it a cat?
+3
+Is it a bird?

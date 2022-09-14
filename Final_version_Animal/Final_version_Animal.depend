@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1574318487 source:e:\code blocks\cs-181\final_version_animal\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	"bintree.h"
+	"useful.h"
+
+1574318487 e:\code blocks\cs-181\final_version_animal\bintree.h
+
+1574318487 e:\code blocks\cs-181\final_version_animal\useful.h
+
+1574318487 source:e:\code blocks\cs-181\final_version_animal\useful.cpp
+	<assert.h>
+	<ctype.h>
+	<iostream>
+	<stdlib.h>
+	"useful.h"
+

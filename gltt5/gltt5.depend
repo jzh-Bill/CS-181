@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1575791630 source:e:\code blocks\cs-181\gltt5\main.cpp
+	<GL/glut.h>
+	<math.h>
+
+1426371328 c:\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1426371328 c:\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+

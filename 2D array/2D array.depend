@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1572071852 source:e:\code blocks\cs-181\2d array\main.cpp
+	<iostream>
+	<fstream>
+
