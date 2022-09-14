@@ -1,0 +1,6 @@
+1
+Does it bark?
+2
+Does it fly?
+3
+Does it swim?

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1574317560 source:e:\code blocks\cs-181\second_animal_program\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+
